@@ -6,15 +6,14 @@
   <img src="https://komarev.com/ghpvc/?username=bhaskerkumarsingh7327&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<!-- Snake eating the contribution graph (auto-updated by GitHub Action) -->
+<!-- Animated Neon Developer Workspace -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhaskerkumarsingh7327/bhaskerkumarsingh7327/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhaskerkumarsingh7327/bhaskerkumarsingh7327/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/bhaskerkumarsingh7327/bhaskerkumarsingh7327/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <img
+    src="./assets/neon_developer_workspace.gif"
+    alt="Animated Neon Developer Workspace"
+    width="100%"
+  />
 </p>
-
 ---
 
 ## 🚀 About Me

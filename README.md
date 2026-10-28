@@ -9,7 +9,7 @@
 <!-- Animated Neon Developer Workspace -->
 <p align="center">
   <img
-    src="./assets/neon_developer_workspace.png"
+    <img src="./assets/neon_developer_banner.png" alt="Neon Developer Banner" width="100%" />
     alt="Animated Neon Developer Workspace"
     width="100%"
   />
